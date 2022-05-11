@@ -1,0 +1,22 @@
+{
+  "name": "com.alextutea.unity-stats",
+  "version": "1.0.0",
+  "displayName": "Stats",
+  "description": "Minimal unity package that aims to streamline the common behaviors for game object statistics such as health or mana.",
+  "unity": "2020.3",
+  "unityRelease": "23f1",
+  "documentationUrl": "https://github.com/alextutea/unity-stats",
+  "changelogUrl": "https://github.com/alextutea/unity-stats",
+  "licensesUrl": "https://github.com/alextutea/unity-stats",
+  "keywords": [
+    "stats",
+    "health",
+    "mana",
+    "bar"
+  ],
+  "author": {
+    "name": "Alex Tutea",
+    "email": "alex.tutea@gmail.com",
+    "url": "https://github.com/alextutea"
+  }
+}
